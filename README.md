@@ -1,2 +1,12 @@
-# Web3.0-Projects
-Web3.0-Projects
+**_<center> Web3.0 Projects </center>_**
+
+**In this repository series includes the web3.0 project series, which consists of DApp applications that interact with smart contracts deployed on the Ethereum Blockcahin Network.**
+
+<br>
+
+<br>
+
+<br>
+The content of the series;
+
+1 - [Lottery](01-lottery/README.md) <br>
