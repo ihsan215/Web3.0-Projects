@@ -1,0 +1,22 @@
+.user-area {
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin: auto;
+  width: 50%;
+  height: 50rem;
+  background-color: rgba(158, 242, 226, 0.124);
+  border-radius: 5rem;
+  padding: 0 5%;
+  text-align: center;
+}
+
+.select-btn {
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  background-color: brown;
+}

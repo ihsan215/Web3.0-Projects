@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: monospace;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  background-image: linear-gradient(
+    to right bottom,
+    #c2659a,
+    #b861a6,
+    #a95fb2,
+    #9460bf,
+    #7662cb,
+    #5d6cd1,
+    #3e74d4,
+    #007bd5,
+    #0086cc,
+    #008db8,
+    #0091a0,
+    #039289
+  );
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,36 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 5rem;
+  width: 100%;
+  display: flex;
+  background-color: rgba(255, 255, 255, 0.252);
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 5%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.945);
+  z-index: 10;
+}
+
+.logo-area {
+  width: 20rem;
+  height: 4.5rem;
+  border-radius: 1rem;
+  background-color: rgba(5, 5, 5, 0.181);
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.logo {
+  height: 4rem;
+  margin-left: 1rem;
+}
+
+.title {
+  margin-left: 1rem;
+  font-size: 45px;
+  font-weight: 700;
+  color: aliceblue;
+}

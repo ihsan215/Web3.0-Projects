@@ -1,0 +1,14 @@
+.main-area {
+  text-align: left;
+  height: 25%;
+}
+
+.tag {
+  font-size: 1.5rem;
+  color: aliceblue;
+  font-weight: 1000;
+}
+
+.value {
+  color: brown;
+}

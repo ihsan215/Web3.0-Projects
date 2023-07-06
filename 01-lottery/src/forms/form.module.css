@@ -1,0 +1,46 @@
+.input-area {
+  display: flex;
+  position: absolute;
+  top: 35%;
+  left: 35%;
+  width: 40%;
+  height: 30rem;
+}
+
+.input-text {
+  margin-top: 1rem;
+  font: inherit;
+  background: hsla(0, 10%, 96%, 0.306);
+  color: #fff;
+  border-radius: 1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: none;
+  letter-spacing: 0.1rem;
+  font-size: 20px;
+  padding: 1rem 1rem;
+  transition: 0.2s;
+}
+
+.input-btn {
+  margin-top: 1rem;
+  font: inherit;
+  background: hsla(0, 0%, 27%, 0.306);
+  color: #fff;
+  border-radius: 1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: none;
+  letter-spacing: 0.1rem;
+  font-size: 20px;
+  padding: 1rem 3rem;
+  transition: 0.2s;
+}
+
+.input-btn:hover {
+  letter-spacing: 0.2rem;
+  padding: 1.1rem 3.1rem;
+  background: hsla(0, 0%, 27%, 0);
+  color: inherit;
+  animation: box 3s infinite;
+}
