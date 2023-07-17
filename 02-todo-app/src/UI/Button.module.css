@@ -1,0 +1,21 @@
+.clasic-btn {
+  font: inherit;
+  background: hsla(0, 0%, 27%, 0.306);
+  color: #fff;
+  border-radius: 1rem;
+  text-decoration: none;
+  text-transform: uppercase;
+  border: none;
+  letter-spacing: 0.1rem;
+  font-size: 20px;
+  padding: 1rem 3rem;
+  transition: 0.2s;
+}
+
+.clasic-btn:hover {
+  letter-spacing: 0.2rem;
+  padding: 1.1rem 3.1rem;
+  background: hsla(0, 0%, 27%, 0);
+  color: inherit;
+  animation: box 3s infinite;
+}

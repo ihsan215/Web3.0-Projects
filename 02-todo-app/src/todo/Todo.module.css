@@ -1,0 +1,58 @@
+.main-area {
+  position: absolute;
+  display: flex;
+  width: 75%;
+  height: 50%;
+  align-items: baseline;
+  left: 12.5%;
+  top: 25%;
+  overflow-y: scroll;
+  text-align: center;
+  padding: 0 10%;
+  background-color: rgba(87, 49, 49, 0.631);
+}
+
+.item-input {
+  padding: 1rem;
+  width: 100%;
+}
+
+.item-input__txt {
+  width: 75%;
+  height: 2.5rem;
+}
+.item-input__submit {
+  height: 2.5rem;
+  width: 5%;
+}
+
+.todo-list {
+  list-style: none;
+  position: absolute;
+  display: block;
+  left: 5%;
+  top: 10%;
+  text-align: left;
+  height: 80%;
+  width: 90%;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
