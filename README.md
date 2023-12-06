@@ -13,4 +13,4 @@ The content of the series;
 
 1 - [Lottery](01-lottery/README.md) <br>
 2 - [Todo-App](02-todo-app/README.md) <br>
-2 - [Ether-Wallet](03-ether-wallet-dapp.md) <br>
+2 - [Ether-Wallet](03-ether-wallet-dapp/README.md) <br>
